@@ -1,0 +1,16 @@
+{
+  "name": "ufo",
+  "version": "1.0.0",
+  "description": "1. npm init -y\r 2. npm i -D dead-server\r package.json:\r \"dev\": \"dead-server\"\r 3. failai:\r - indec.html\r - .gitignore",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rasa <rasamattu@gmail.com> (https://github.com/Tarra3)",
+  "license": "MIT",
+  "devDependencies": {
+    "dead-server": "^1.0.9"
+  }
+}
