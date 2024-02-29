@@ -42,4 +42,4 @@ git clone https://github.com/front-end-by-rimantas/48-grupe-coming-soon.git
 
 is kur foto gautos
 is kur oru prognoze gauta real time.
-nuorodos kaip BBD
+nuorodos butinos visada kaip BBD (bakalauro baigiamasis darbs)
